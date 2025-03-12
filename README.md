@@ -8,6 +8,7 @@
 <h3 align="left">Languages and tools:</h3>
 <p align="left">
 <a href="https://pt.wikipedia.org/wiki/Linux" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/vital987/vital987/master/assets/linux.svg" width="40" height="40"/>
+<a href="https://www.kali.org/" target="_blank" rel="noreferrer"> <img src="https://vectorseek.com/wp-content/uploads/2023/11/Kali-Linux-new-Logo-Vector.svg-.png" width="40" height="40"/>
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 <a href="https://www.java.com/pt-BR/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" alt="java" width="40" height="40"/>
